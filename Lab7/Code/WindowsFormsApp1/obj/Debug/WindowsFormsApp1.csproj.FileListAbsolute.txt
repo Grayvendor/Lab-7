@@ -1,0 +1,228 @@
+C:\Users\manga\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\manga\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\manga\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\manga\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FastColoredTextBox.dll
+C:\Users\manga\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FastColoredTextBox.xml
+C:\Users\manga\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\manga\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\manga\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\manga\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\manga\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\manga\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\manga\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\manga\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\manga\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\TabStrip.dll
+C:\Users\manga\source\repos\Новая папка\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\manga\source\repos\Новая папка\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\manga\source\repos\Новая папка\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\manga\source\repos\Новая папка\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FastColoredTextBox.xml
+C:\Users\manga\source\repos\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\manga\source\repos\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\manga\source\repos\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\manga\source\repos\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\manga\source\repos\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\manga\source\repos\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\manga\source\repos\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\manga\source\repos\Новая папка\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FastColoredTextBox.xml
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Admin\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AboutProgram.resources
+C:\Users\Admin\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FastColoredTextBox.xml
+C:\Users\Admin\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AboutProgram.resources
+C:\Users\Admin\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Admin\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Admin\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Desktop\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Source\Repos\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Source\Repos\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Source\Repos\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Source\Repos\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FastColoredTextBox.xml
+C:\Users\user\Source\Repos\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Source\Repos\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AboutProgram.resources
+C:\Users\user\Source\Repos\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\Source\Repos\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Source\Repos\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Source\Repos\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\user\Source\Repos\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Source\Repos\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Source\Repos\Language_compiler\new\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\Source\Repos\Language_compiler\new\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Source\Repos\Language_compiler\new\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\Source\Repos\Language_compiler\new\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FastColoredTextBox.xml
+C:\Users\Admin\Source\Repos\Language_compiler\new\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Admin\Source\Repos\Language_compiler\new\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Source\Repos\Language_compiler\new\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AboutProgram.resources
+C:\Users\Admin\Source\Repos\Language_compiler\new\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Admin\Source\Repos\Language_compiler\new\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\Source\Repos\Language_compiler\new\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Admin\Source\Repos\Language_compiler\new\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\Language_compiler\new\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Admin\Source\Repos\Language_compiler\new\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\Source\Repos\Language_compiler\new\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Admin\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Admin\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FastColoredTextBox.xml
+C:\Users\Admin\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AboutProgram.resources
+C:\Users\Admin\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Admin\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Admin\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Admin\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Admin\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\highslk\Source\Repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\highslk\Source\Repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\highslk\Source\Repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\highslk\Source\Repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FastColoredTextBox.xml
+C:\Users\highslk\Source\Repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\highslk\Source\Repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AboutProgram.resources
+C:\Users\highslk\Source\Repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\highslk\Source\Repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\highslk\Source\Repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\highslk\Source\Repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\highslk\Source\Repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\highslk\Source\Repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\highslk\Source\Repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\highslk\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\highslk\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\highslk\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\highslk\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\bin\Debug\FastColoredTextBox.xml
+C:\Users\highslk\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\highslk\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AboutProgram.resources
+C:\Users\highslk\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\highslk\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\highslk\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\highslk\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\highslk\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\highslk\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\highslk\source\repos\Language_compiler\3 lab\Language_compiler\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\highslk\source\repos\Language_compiler\3 lab\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\highslk\source\repos\Language_compiler\3 lab\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\highslk\source\repos\Language_compiler\3 lab\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\highslk\source\repos\Language_compiler\3 lab\Code\WindowsFormsApp1\bin\Debug\FastColoredTextBox.xml
+C:\Users\highslk\source\repos\Language_compiler\3 lab\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\highslk\source\repos\Language_compiler\3 lab\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AboutProgram.resources
+C:\Users\highslk\source\repos\Language_compiler\3 lab\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\highslk\source\repos\Language_compiler\3 lab\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\highslk\source\repos\Language_compiler\3 lab\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\highslk\source\repos\Language_compiler\3 lab\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\highslk\source\repos\Language_compiler\3 lab\Code\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\highslk\source\repos\Language_compiler\3 lab\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\highslk\source\repos\Language_compiler\3 lab\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Source\Repos\NikitaLab4\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\Source\Repos\NikitaLab4\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\Source\Repos\NikitaLab4\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\Source\Repos\NikitaLab4\Code\WindowsFormsApp1\bin\Debug\FastColoredTextBox.xml
+C:\Users\user\Source\Repos\NikitaLab4\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\Source\Repos\NikitaLab4\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Source\Repos\NikitaLab4\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AboutProgram.resources
+C:\Users\user\Source\Repos\NikitaLab4\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\Source\Repos\NikitaLab4\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\Source\Repos\NikitaLab4\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\Source\Repos\NikitaLab4\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Source\Repos\NikitaLab4\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\user\Source\Repos\NikitaLab4\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\Source\Repos\NikitaLab4\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user\source\repos\NikitaLab4издевательства\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user\source\repos\NikitaLab4издевательства\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user\source\repos\NikitaLab4издевательства\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user\source\repos\NikitaLab4издевательства\Code\WindowsFormsApp1\bin\Debug\FastColoredTextBox.xml
+C:\Users\user\source\repos\NikitaLab4издевательства\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\NikitaLab4издевательства\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\NikitaLab4издевательства\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AboutProgram.resources
+C:\Users\user\source\repos\NikitaLab4издевательства\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user\source\repos\NikitaLab4издевательства\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user\source\repos\NikitaLab4издевательства\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\NikitaLab4издевательства\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\NikitaLab4издевательства\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\user\source\repos\NikitaLab4издевательства\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user\source\repos\NikitaLab4издевательства\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\dsfgdfg\Курсовая Компиляторы\Lab4\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\dsfgdfg\Курсовая Компиляторы\Lab4\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\dsfgdfg\Курсовая Компиляторы\Lab4\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\dsfgdfg\Курсовая Компиляторы\Lab4\Code\WindowsFormsApp1\bin\Debug\FastColoredTextBox.xml
+E:\dsfgdfg\Курсовая Компиляторы\Lab4\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\dsfgdfg\Курсовая Компиляторы\Lab4\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\dsfgdfg\Курсовая Компиляторы\Lab4\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\dsfgdfg\Курсовая Компиляторы\Lab4\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\dsfgdfg\Курсовая Компиляторы\Lab4\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\dsfgdfg\Курсовая Компиляторы\Lab4\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\dsfgdfg\Курсовая Компиляторы\Lab4\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\dsfgdfg\Курсовая Компиляторы\Lab4\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\dsfgdfg\Курсовая Компиляторы\Lab4\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\dsfgdfg\Lab6\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\dsfgdfg\Lab6\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\dsfgdfg\Lab6\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\dsfgdfg\Lab6\Code\WindowsFormsApp1\bin\Debug\FastColoredTextBox.xml
+D:\dsfgdfg\Lab6\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\dsfgdfg\Lab6\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\dsfgdfg\Lab6\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\dsfgdfg\Lab6\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\dsfgdfg\Lab6\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\dsfgdfg\Lab6\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\dsfgdfg\Lab6\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\dsfgdfg\Lab6\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\dsfgdfg\Lab6\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\dsfgdfg\Lab7\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\dsfgdfg\Lab7\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\dsfgdfg\Lab7\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\dsfgdfg\Lab7\Code\WindowsFormsApp1\bin\Debug\FastColoredTextBox.xml
+E:\dsfgdfg\Lab7\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\dsfgdfg\Lab7\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\dsfgdfg\Lab7\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\dsfgdfg\Lab7\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\dsfgdfg\Lab7\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\dsfgdfg\Lab7\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\dsfgdfg\Lab7\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\dsfgdfg\Lab7\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\dsfgdfg\Lab7\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\lab 7\vjz\Lab7\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\lab 7\vjz\Lab7\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\lab 7\vjz\Lab7\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\lab 7\vjz\Lab7\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\lab 7\vjz\Lab7\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\lab 7\vjz\Lab7\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\lab 7\vjz\Lab7\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\lab 7\vjz\Lab7\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\lab 7\vjz\Lab7\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\lab 7\vjz\Lab7\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\lab 7\vjz\Lab7\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\lab 7\vjz\Lab7\Code\WindowsFormsApp1\bin\Debug\FastColoredTextBox.xml
+D:\lab 7\vjz\Lab7\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\lab 7\финал\Lab7\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\lab 7\финал\Lab7\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\lab 7\финал\Lab7\Code\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\lab 7\финал\Lab7\Code\WindowsFormsApp1\bin\Debug\FastColoredTextBox.xml
+E:\lab 7\финал\Lab7\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\lab 7\финал\Lab7\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+E:\lab 7\финал\Lab7\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\lab 7\финал\Lab7\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\lab 7\финал\Lab7\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\lab 7\финал\Lab7\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\lab 7\финал\Lab7\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\lab 7\финал\Lab7\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\lab 7\финал\Lab7\Code\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

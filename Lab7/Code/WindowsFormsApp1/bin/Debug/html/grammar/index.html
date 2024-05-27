@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Грамматика</title>
+</head>
+
+<body>
+    <h1>Грамматика</h1>
+
+    <p>
+        Определим грамматику для объявления и инициализация вещественной константы в СУБД PostgreSQL: <br/>
+        <br/>
+        digit → “0” | “1” | “2” | “3” | “4” | “5” | “6” | “7” | “8” | “9”<br/>
+        letter → “a” | “b” | “c” | ... | “z”<br/>
+        space → " "<br/>
+        underLine → "_"<br/>
+        comma → .<br/>
+        eof → ;<br/>
+        <br/>
+        identifier → letter { letter | number }<br/>
+        constant → "constant"<br/>
+        numeric → "numeric"<br/>
+        assign → "assign"<br/>
+        type → "type"<br/>
+        <br/>
+        <ol>
+            <li>STATEMENT → identifier INDENTIFIER</li>
+            <li>INDENTIFIER → constant CONSTANT</li>
+            <li>CONSTANT → numeric NUMERIC</li>
+            <li>NUMERIC → assign ASSIGN</li>
+            <li>ASSIGN → number NUMBER</li>
+            <li>NUMBER → eof</li>
+        </ol>
+    </p>
+</body>
+
+</html>

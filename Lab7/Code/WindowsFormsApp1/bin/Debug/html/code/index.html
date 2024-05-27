@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Код парсера и лексического анализатора</title>
+</head>
+
+<body>
+    <h1>Код парсера и лексического анализатора:</h1>
+    <hr>
+    <h2>Код парсера</h2>
+    <code>
+        namespace WindowsFormsApp1.src
+        {
+            internal class Parser<br/>
+            {<br/>
+                private List<Token> tokens;<br/>
+                private int pos = 0;<br/>
+                private int errorPos = 0;<br/>
+                private Dictionary<string, TokenType> tokenTypeList = new tokensList().tokenTypeList;<br/>
+                ErrorHandler error;<br/>
+                <br/>
+                public Parser(List<Token>listTokens, ErrorHandler errors)<br/>
+                {<br/>
+                    tokens = listTokens;<br/>
+                    error = errors;<br/>
+                }<br/>
+                <br/>
+                dynamic tryFinds(int localPos, params TokenType[] expected)<br/>
+                {<br/>
+                    var tryParseNext = matchTo(localPos, expected);<br/>
+                    if (tryParseNext != null)<br/>
+                    {<br/>
+                        error.addError("На позиции " + (errorPos) + " получен неизвестный символ" + " ожидался " + expected[0].name);<br/>
+                        tokens.Remove(tokens[pos]);<br/>
+                        return tryParseNext;<br/>
+                    }<br/>
+                    else<br/>
+                    {<br/>
+                        changeNodes(expected[0]);<br/>
+                        return false;<br/>
+                    }<br/>
+                }<br/>
+                <br/>
+                void changeNodes(TokenType tokenType)<br/>
+                {<br/>
+                    List<Token> newTokens = new List<Token>();<br/>
+                    int iteration = 0;<br/>
+                    <br/>
+                    Token changeableToken = new Token(tokenType, "aas", pos);<br/>
+                    <br/>
+                    if(tokens.Count >= 6)<br/>
+                    {<br/>
+                        foreach (Token val in tokens)<br/>
+                        {<br/>
+                            if (iteration == pos)<br/>
+                                newTokens.Add(changeableToken);<br/>
+                            else<br/>
+                                newTokens.Add(val);<br/>
+                            iteration++;<br/>
+                        }<br/>
+                        tokens = newTokens;<br/>
+                    }<br/>
+                    else<br/>
+                        tokens.Insert(pos, changeableToken);<br/>
+                        <br/>
+                    pos += 1;<br/>
+                }<br/>
+                <br/>
+                Token matchTo(int pos, params TokenType[] expected)<br/>
+                {<br/>
+                    if (pos < tokens.Count)<br/>
+                    {<br/>
+                        Token currentToken = tokens[pos];<br/>
+                        var aa = expected.FirstOrDefault(type => type.name == currentToken.type.name);<br/>
+                        if (aa != null)<br/>
+                        {<br/>
+                            this.pos += 1;<br/>
+                            return currentToken;<br/>
+                        }<br/>
+                    }<br/>
+                    return null;<br/>
+                }<br/>
+                Token match(params TokenType[] expected)<br/>
+                {<br/>
+                    errorPos += 1;<br/>
+                    if (pos < tokens.Count)<br/>
+                    {<br/>
+                        Token currentToken = tokens[pos];<br/>
+                        var aa = expected.FirstOrDefault(type => type.name == currentToken.type.name);<br/>
+                        if (aa != null)<br/>
+                        {<br/>
+                            pos += 1;<br/>
+                            return currentToken;<br/>
+                        }<br/>
+                        else<br/>
+                        {<br/>
+                            var t = tryFinds(pos +1, expected);<br/>
+                            if (!(t is bool))<br/>
+                                return t;<br/>
+                        }<br/>
+                    }<br/>
+                    return null;<br/>
+                }<br/>
+                <br/>
+                bool IsFloatOrInt(string value)<br/>
+                {<br/>
+                    int intValue;<br/>
+                    float floatValue;<br/>
+                    return Int32.TryParse(value, out intValue) || float.TryParse(value, out floatValue);<br/>
+                }<br/>
+                <br/>
+                Token require(params TokenType[] expected)<br/>
+                {<br/>
+                    Token token = match(expected);<br/>
+                    if(token == null)<br/>
+                    {<br/>
+                        error.addError("На позиции " + (errorPos) + " ожидается " + expected[0].name);<br/>
+                        return null;<br/>
+                    }<br/>
+                    else<br/>
+                    {<br/>
+                        if (token.type.name == tokenTypeList["NUMBER"].name) <br/>
+                        {<br/>
+                            bool isInt = IsFloatOrInt(token.value);<br/>
+                            if(isInt == true)<br/>
+                            {<br/>
+                                error.addError("Значение должно соответствовать вещественному числу");<br/>
+                            }<br/>
+                        }<br/>
+                    }<br/>
+                    return token;<br/>
+                }<br/>
+                <br/>
+                void parseExpression()<br/>
+                {<br/>
+                    var variableName = require(tokenTypeList["VARIABLE"]);<br/>
+                    var constantNode = require(tokenTypeList["CONSTANT"]);<br/>
+                    var dataTypeNode = require(tokenTypeList["NUMERIC"]);<br/>
+                    var assignOperator = require(tokenTypeList["ASSIGMENT"]);<br/>
+                    var numberToken = require(tokenTypeList["NUMBER"]);<br/>
+                }<br/>
+                <br/>
+                public ExpressionNode parseCode()<br/>
+                {<br/>
+                    StatementsNode root = new StatementsNode();<br/>
+                    while (pos < tokens.Count)<br/>
+                    {<br/>
+                        parseExpression();<br/>
+                        if (require(tokenTypeList["SEMICOLON"]) == null)<br/>
+                            break;<br/>
+                    }<br/>
+                    if(error.errorsCount() == 0)<br/>
+                        error.addError("Программа отработала корректно");<br/>
+                    return root;<br/>
+                }<br/>
+            }<br/>
+        }<br/>
+    </code>
+    <hr>
+    <h2>Код лексера</h2>
+    <code>
+        namespace WindowsFormsApp1.src<br/>
+        {<br/>
+            internal class Lexer<br/>
+            {<br/>
+                public string code;<br/>
+                public int pos;<br/>
+                private List<Token> tokenList = new List<Token>();<br/>
+                private Dictionary<string, TokenType> tokenTypesValues = new tokensList().tokenTypeList;<br/>
+                ErrorHandler error;<br/>
+                public Lexer(string code, ErrorHandler errors)<br/>
+                {<br/>
+                    this.code = code;<br/>
+                    error = errors;<br/>
+                }<br/>
+                <br/>
+                public List<Token> lexerAnalysis()<br/>
+                {<br/>
+                    while (nextToken()) { }<br/>
+                    return tokenList;<br/>
+                }<br/>
+                <br/>
+                bool nextToken()<br/>
+                {<br/>
+                    if(pos >= code.Length)<br/>
+                        return false;<br/>
+                        <br/>
+                    foreach (var value in tokenTypesValues)<br/>
+                    {<br/>
+                        var tokenTypeValue = value.Value;<br/>
+                        var regex = new Regex('^' + tokenTypeValue.regexp + '$');<br/>
+                        var result = code.Substring(pos).Trim().Split('\n')[0].Split('\r')[0].Split(' ')[0];<br/>
+                        <br/>
+                        if (result != null)<br/>
+                        {<br/>
+                            int counter = 0;<br/>
+                            if (regex.IsMatch(result))<br/>
+                            {<br/>
+                                Token token = new Token(tokenTypeValue, result, pos);<br/>
+                                pos += result.Length+1;<br/>
+                                tokenList.Add(token);<br/>
+                                error.clearErrors();<br/>
+                                counter = 0;<br/>
+                                return true;<br/>
+                            }<br/>
+                            else<br/>
+                            {<br/>
+                                error.addError("Неизвестное значение на позиции " + pos);<br/>
+                            }<br/>
+                            <br/>
+                        }<br/>
+                        <br/>
+                        <br/>
+                        <br/>
+                    }<br/>
+                    return false;<br/>
+                }<br/>
+            }<br/>
+        }<br/>
+    </code>
+</body>
+
+</html>
